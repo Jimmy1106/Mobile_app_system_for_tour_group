@@ -15,6 +15,13 @@
 
 
 
+### **Group buying**
+- Allow guide to add group-buying product.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/wqBgP64.gif" width="250"> 
+
+<br>
+
 ### **Attraction browsing**
 
 - Select an item from Attraction list to see the information.
@@ -23,12 +30,6 @@
 
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/UfAI2Kv.png" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://i.imgur.com/WsubIV2.png" width="200"> -->
-
-
-### **Group buying**
-- Allow guide to add group-buying product.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/wqBgP64.gif" width="250"> 
 
 
 <br>
